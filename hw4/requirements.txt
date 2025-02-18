@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+elasticsearch
+networkx
+pandas
+PyPDF2
+python-docx
+scikit-learn
+numpy
+pypinyin
+jieba
+openpyxl
+aiohttp
